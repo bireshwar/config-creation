@@ -1,0 +1,19 @@
+{
+  "name": "config-creation",
+  "version": "1.0.0",
+  "description": "This is a Config text creation App",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.2",
+    "xlsx": "^0.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Bireshwar Goswami",
+  "license": "ISC"
+}
